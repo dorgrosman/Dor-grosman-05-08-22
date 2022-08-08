@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dor-grosman-05-08-22/static/css/main.16deda6f.css",
+    "main.js": "/Dor-grosman-05-08-22/static/js/main.00a17cbf.js",
+    "static/js/787.cda612ba.chunk.js": "/Dor-grosman-05-08-22/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Dor-grosman-05-08-22/index.html",
+    "main.16deda6f.css.map": "/Dor-grosman-05-08-22/static/css/main.16deda6f.css.map",
+    "main.00a17cbf.js.map": "/Dor-grosman-05-08-22/static/js/main.00a17cbf.js.map",
+    "787.cda612ba.chunk.js.map": "/Dor-grosman-05-08-22/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16deda6f.css",
+    "static/js/main.00a17cbf.js"
+  ]
+}
